@@ -3,3 +3,9 @@
 编译成chm格式的可以直接去下面地址下载：
 https://download.csdn.net/download/wzjin/11012776
 交流请加chm标题栏中的qq群。
+
+
+
+----------------------------
+FORK editer：
+复制一份到docs作为Github pages
